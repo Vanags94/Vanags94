@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Mauricio 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -14,14 +14,14 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+👋 Hi, I’m Mauricio, a Power BI Lead Developer and Data Analyst with 6+ years of experience building enterprise BI solutions and turning messy data into clean, actionable insights.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I currently work on People Analytics, designing and maintaining scalable dashboards using Power BI, Microsoft Fabric, and Azure, with a strong focus on performance, governance, and automation. I enjoy modernizing reporting platforms, working with cloud analytics, and collaborating with teams to solve real business problems. Outside of dashboards, I’m interested in AI automation, data governance, and UI/UX‑driven data storytelling.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I’m not working with data, I enjoy 🎮 video games (especially Final Fantasy 🗡️), 🏃 running, and 🎨 trying to get better at digital art.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://Vanagas94.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
@@ -31,10 +31,17 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Azure DP100 Cert
+- R programming
+- Drawing / Digital art
 
 ## 🛠️ Technical Skillset
+
+- BI & Analytics: Power BI, Power Platform, Microsoft Fabric
+- Data & Programming: SQL, Python, R
+- Cloud & DevOps: Azure, Git, CI/CD, Deployment Pipelines
+- Practices: Data Modeling, Agile, DevOps, Technical Documentation, UI/UX
+
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
